@@ -1,0 +1,17 @@
+{
+  "name": "webhook",
+  "version": "0.1.0",
+  "description": "webHook spammer",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm install discord.js && node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "bruhboy345",
+  "license": "MIT"
+}
